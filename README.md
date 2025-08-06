@@ -14,7 +14,7 @@
 
 ## 🌐 Сайт доступен по адресу:
 
-- GitHub Pages: [https://gizik-ta.github.io/math-tutor](https://gizik-ta.github.io/math-tutor)
+- GitHub Pages: [https://gizik-ta.github.io/](https://gizik-ta.github.io/)
 
 ## 🚀 Технологии
 
